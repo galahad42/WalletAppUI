@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![](_SCREENSHOTS/screenshot_1.jpg)
+<img src="_SCREENSHOTS/screenshot_1.jpg" height="500">
 
 ## Getting Started
 
