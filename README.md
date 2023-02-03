@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[](./_SCREENSHOTS/screenshot_1.jpg)
+![](_SCREENSHOTS/screenshot_1.jpg)
 
 ## Getting Started
 
